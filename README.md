@@ -70,4 +70,8 @@ Go to the project directory
 ```bash
   cd itechnolabs-diabetes-prediction
 ```
+# Reproducibility
 
+For a project to be reproducible, the environment it was built in must be captured. Framework dependencies, versions, the hardware used, and all other parts of the environment must be logged and easy to reproduce.
+Used the latest library and document version which is given requirements.txt
+Used all available computational power.
