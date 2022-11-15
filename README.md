@@ -62,25 +62,12 @@ and accuracy of model
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MayurJadhav123/itechnolabs_diabetes_prediction.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd itechnolabs-diabetes-prediction
 ```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 
